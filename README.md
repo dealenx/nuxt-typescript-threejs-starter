@@ -1,7 +1,9 @@
 # nuxt-typescript-threejs-starter
 
 > Typescript starter with Nuxt.js and Three.js
+
 Project forked [typescript-template](https://github.com/nuxt-community/typescript-template/tree/master/template)
+
 ## Build Setup
 
 ``` bash
